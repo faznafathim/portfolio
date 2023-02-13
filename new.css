@@ -1,0 +1,19 @@
+.name{
+    color: darkgreen;
+    border:1px ;
+    text-align: center;
+}
+.edu{
+    color: darkgreen;
+    border: 1px;
+    margin: 25px;
+}
+.skill{
+    color: darkgreen;
+    border:1px  ;
+    margin: 25px;
+}
+.link{
+    vertical-align: text-top;
+    color: green;
+}
