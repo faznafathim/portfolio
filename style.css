@@ -1,0 +1,11 @@
+#ch{
+    color: red;
+    text-decoration: line-through;
+}
+p{
+    color: blueviolet;
+    font-size: 20px;
+}
+.blue{
+    color: chartreuse;
+}
